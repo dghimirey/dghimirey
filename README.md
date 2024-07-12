@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning github basics.
 - 💞️ I’m looking to collaborate with anyone who can help me learning.
-- 📫 How to reach me? email: diamondghimire4141@gmail.com and mobile number: 986356671
+- 📫 How to reach me? email: diamondghimire4141@gmail.com and mobile number: 9863566571
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: I am kind of introvert.
 
