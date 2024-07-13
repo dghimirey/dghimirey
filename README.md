@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with anyone who can help me learning.
 - 📫 How to reach me? email: diamondghimire4141@gmail.com and mobile number: 9863566571
 - 😄 Pronouns: nothing
-- ⚡ Fun fact: I am kind of introvert.
+- ⚡ Fun fact: Most of the fun facts aren't actually fun facts.
 
 <!---
 dghimirey/dghimirey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
