@@ -32,9 +32,9 @@
 
 ### GitHub Stats
 
-![Diamond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dghimirey\&show_icons=true\&theme=tokyonight)
+![Diamond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dghimirey&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dghimirey\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dghimirey&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
