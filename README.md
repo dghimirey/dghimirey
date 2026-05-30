@@ -1,15 +1,5 @@
 ## Hi there
-# I'm Diamond Ghimire
-
-💀 BSc CSIT Student
-💀 Computer Operator
-💀 Full Stack Developer
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue)](https://portfolio.diamondghimire.com.np)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://digitalschoolsystem.vercel.app)
-
+# I'm 
 # 💀 Diamond Ghimire
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7FF&width=435&lines=BSc+CSIT+Student;Full+Stack+Developer;Building+Cool+Stuff;Learning+Every+Day" alt="Typing SVG" />
