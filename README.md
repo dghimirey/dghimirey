@@ -5,11 +5,11 @@
 
 ### My Websites
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge)](https://portfolio.diamondghimire.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Profile-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.diamondghimire.com.np)
 
-[![Digital School System](https://img.shields.io/badge/Digital_School_System-Live_Demo-success?style=for-the-badge)](https://digitalschoolsystem.vercel.app)
+[![Digital School System](https://img.shields.io/badge/Digital_School_System-Live_Demo-22c55e?style=for-the-badge&logo=react&logoColor=white)](https://digitalschoolsystem.vercel.app)
 
-[![Haraiya Secondary School](https://img.shields.io/badge/Haraiya_Secondary_School-Official_Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haraiyasecondary.vercel.app)
+[![Haraiya Secondary School](https://img.shields.io/badge/Haraiya_Secondary_School-Official_Site-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haraiyasecondary.vercel.app)
 
 ---
 
