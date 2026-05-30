@@ -10,6 +10,8 @@
 
 [![Digital School System](https://img.shields.io/badge/Digital_School_System-Live_Demo-success?style=for-the-badge)](https://digitalschoolsystem.vercel.app)
 
+[![Haraiya Secondary School](https://img.shields.io/badge/Haraiya_Secondary_School-Official_Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haraiyasecondary.vercel.app)
+
 ---
 
 ### Tech Arsenal
