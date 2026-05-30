@@ -4,21 +4,21 @@
 
 ---
 
-💀 BSc CSIT Student
-💀 Full Stack Developer
-💀 Computer Operator
+ BSc CSIT Student
+ Full Stack Developer
+ Computer Operator
 
 ---
 
-### 🚀 My Websites
+### My Websites
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge)](https://portfolio.diamondghimire.com.np)
 
-[![Digital School System](https://img.shields.io/badge/🚀_Digital_School_System-Live_Demo-success?style=for-the-badge)](https://digitalschoolsystem.vercel.app)
+[![Digital School System](https://img.shields.io/badge/_Digital_School_System-Live_Demo-success?style=for-the-badge)](https://digitalschoolsystem.vercel.app)
 
 ---
 
-### ⚡ Tech Arsenal
+### Tech Arsenal
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Diamond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dghimirey\&show_icons=true\&theme=tokyonight)
 
@@ -38,13 +38,13 @@
 
 ---
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dghimirey\&theme=tokyonight)
 
 ---
 
-> "The bug isn't gone. It's just hiding."
+"The bug isn't gone. It's just hiding."
 
 ---
 
