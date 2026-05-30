@@ -11,6 +11,8 @@
 
 [![Haraiya Secondary School](https://img.shields.io/badge/Haraiya_Secondary_School-Official_Site-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haraiyasecondary.vercel.app)
 
+[![Fit Beat](https://img.shields.io/badge/Fit_Beat-Explore_Platform-0ea5e9?style=for-the-badge&logo=fitness&logoColor=white)](https://fit-beat.vercel.app/)
+
 ---
 
 ### Tech Arsenal
