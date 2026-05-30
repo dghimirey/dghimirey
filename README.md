@@ -25,12 +25,3 @@
 ### Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dghimirey\&theme=tokyonight)
-
----
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=dghimirey\&color=blueviolet\&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/dghimirey?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/dghimirey?style=for-the-badge)
