@@ -24,16 +24,12 @@
 
 ---
 
-
 ### Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dghimirey\&theme=tokyonight)
 
 ---
 
-> "The bug isn't gone. It's just hiding."
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dghimirey\&color=blueviolet\&style=for-the-badge)
 
