@@ -2,12 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7FF&width=435&lines=BSc+CSIT+Student;Full+Stack+Developer;" alt="Typing SVG" />
 
-### About Me
-
-* BSc CSIT Student
-* Full Stack Developer
-* Computer Operator
-
 ---
 
 ### My Websites
