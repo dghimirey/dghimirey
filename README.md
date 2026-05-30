@@ -4,17 +4,19 @@
 
 ---
 
- BSc CSIT Student
- Full Stack Developer
- Computer Operator
+### About Me
+
+* BSc CSIT Student
+* Full Stack Developer
+* Computer Operator
 
 ---
 
 ### My Websites
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge)](https://portfolio.diamondghimire.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge)](https://portfolio.diamondghimire.com.np)
 
-[![Digital School System](https://img.shields.io/badge/_Digital_School_System-Live_Demo-success?style=for-the-badge)](https://digitalschoolsystem.vercel.app)
+[![Digital School System](https://img.shields.io/badge/Digital_School_System-Live_Demo-success?style=for-the-badge)](https://digitalschoolsystem.vercel.app)
 
 ---
 
@@ -32,9 +34,13 @@
 
 ### GitHub Stats
 
-![Diamond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dghimirey&show_icons=true&theme=tokyonight&hide_border=true)
+![Diamond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dghimirey\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dghimirey&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dghimirey\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -44,7 +50,7 @@
 
 ---
 
-"The bug isn't gone. It's just hiding."
+> "The bug isn't gone. It's just hiding."
 
 ---
 
@@ -53,4 +59,3 @@
 ![Followers](https://img.shields.io/github/followers/dghimirey?style=for-the-badge)
 
 ![Stars](https://img.shields.io/github/stars/dghimirey?style=for-the-badge)
-
