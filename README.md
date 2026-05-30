@@ -13,6 +13,8 @@
 
 [![Fit Beat](https://img.shields.io/badge/Fit_Beat-Explore_Platform-0ea5e9?style=for-the-badge&logo=fitness&logoColor=white)](https://fit-beat.vercel.app/)
 
+[![Schedule System](https://img.shields.io/badge/Schedule_System-Open_App-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://schedule-three-ecru.vercel.app/)
+
 ---
 
 ### Tech Arsenal
