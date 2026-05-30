@@ -5,15 +5,15 @@
 
 ### My Websites
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Profile-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.diamondghimire.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Developer_Profile-1d4ed8?style=for-the-badge&logo=github&logoColor=white)](https://portfolio.diamondghimire.com.np)
 
-[![Digital School System](https://img.shields.io/badge/Digital_School_System-Live_Demo-22c55e?style=for-the-badge&logo=react&logoColor=white)](https://digitalschoolsystem.vercel.app)
+[![Digital School System](https://img.shields.io/badge/Digital_School_System-Smart_School_Platform-16a34a?style=for-the-badge&logo=react&logoColor=white)](https://digitalschoolsystem.vercel.app)
 
-[![Haraiya Secondary School](https://img.shields.io/badge/Haraiya_Secondary_School-Official_Site-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haraiyasecondary.vercel.app)
+[![Haraiya Secondary School](https://img.shields.io/badge/Haraiya_Secondary_School-Education_Website-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haraiyasecondary.vercel.app)
 
-[![Fit Beat](https://img.shields.io/badge/Fit_Beat-Explore_Platform-0ea5e9?style=for-the-badge&logo=fitness&logoColor=white)](https://fit-beat.vercel.app/)
+[![Fit Beat](https://img.shields.io/badge/Fit_Beat_Fitness-Health_Tracking_App-f97316?style=for-the-badge&logo=fitness&logoColor=white)](https://fit-beat.vercel.app/)
 
-[![Schedule System](https://img.shields.io/badge/Schedule_System-Open_App-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://schedule-three-ecru.vercel.app/)
+[![Schedule System](https://img.shields.io/badge/Schedule_System-Productivity_Manager-7c3aed?style=for-the-badge&logo=google-calendar&logoColor=white)](https://schedule-three-ecru.vercel.app/)
 
 ---
 
