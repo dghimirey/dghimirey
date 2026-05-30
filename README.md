@@ -11,7 +11,7 @@
 
 [![Haraiya Secondary School](https://img.shields.io/badge/Haraiya_Secondary_School-Education_Website-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haraiyasecondary.vercel.app)
 
-[![Fit Beat](https://img.shields.io/badge/Fit_Beat_Fitness-Health_Tracking_App-f97316?style=for-the-badge&logo=fitness&logoColor=white)](https://fit-beat.vercel.app/)
+[![Fit Beat](https://img.shields.io/badge/Fit_Beat_Fitness-Health_Tracking_App-f97316?style=for-the-badge&logo=heartbeat&logoColor=white)](https://fit-beat.vercel.app/)
 
 [![Schedule System](https://img.shields.io/badge/Schedule_System-Productivity_Manager-7c3aed?style=for-the-badge&logo=google-calendar&logoColor=white)](https://schedule-three-ecru.vercel.app/)
 
